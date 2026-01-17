@@ -1,14 +1,17 @@
 # Nike-Shoes-Sales-Analysis-Dashboard
 
 📁 Project File
+
 File Name: Nike Shoes Dashboard
+
 Tool Used: Power BI
 
 ![Overview Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215534.png)
 ![Insight Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215608.png)
 ![Performance Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215703.png)
-
-
+![2Overview Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215818.png)
+![2Insight Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215835.png)
+![2Performance Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215903.png)
 
 
 
