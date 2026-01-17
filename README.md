@@ -4,6 +4,11 @@
 File Name: Nike Shoes Dashboard
 Tool Used: Power BI
 
+![Overview Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215534.png)
+![Insight Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215608.png)
+![Performance Page](https://github.com/Amang125/Nike-Shoes-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-01-16%20215703.png)
+
+
 
 
 
